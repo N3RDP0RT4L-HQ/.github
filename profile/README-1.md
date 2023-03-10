@@ -1,4 +1,4 @@
-### N3RDP0RT4L-HQ !
+### N3RDP0RT4L HQ
 
 Welcome to the N3RDP0RT4L headquarters operating on the planet Kepler-186F!
 
