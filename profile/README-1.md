@@ -2,9 +2,9 @@
 
 Welcome to the N3RDP0RT4L headquarters operating on the planet Kepler-186F!
 
-I'm a small developer demon, aiming to discover and traverse through countless of the oceans, jungles, and voyage throughout the magestical depths of space bound to gain a fleet through the indefinite stars.
+We have achieved many application ports, and modifications to make the SM-T380, and the in-progress codename "enuma" better then ever before.
 
-I love playing around with the terminal, sometimes scripting away, devouring Linux bugs and tormenting them to my pawns.
+We also hope you can all stick around for the exciting future of the inclusive N3RDP0RT4L scene.
 
 - 🔭 I'm a **HUGE** Astronomy and Astrophysics fan!
 - 🌱 I’m currently preparing something.
