@@ -6,7 +6,7 @@ We have achieved many application ports, and modifications to make the SM-T380, 
 
 We also hope you can all stick around for the exciting future of the inclusive N3RDP0RT4L scene.
 
-- 🔭 I'm a **HUGE** Astronomy and Astrophysics fan!
+- 📱 We finished iShitOS; A Super-Fast and debloated ROM for the SM-T380.
 - 🌱 I’m currently preparing something.
 - 📫 I'm a **HUGE** Linux user! DO NOT UNDERESTIMATE THE DECADE OF MY VOYAGE!
 - 😄 Pronouns: he/him.
