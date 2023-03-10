@@ -9,7 +9,7 @@ We also hope you can all stick around for the exciting future of the inclusive N
 - 📱 We finished iShitOS; A Super-Fast and debloated ROM for the SM-T380.
 - ⌨️ The first SM-T380 working LineageOS build has been released.
 - 📫 I'm a **HUGE** Linux user! DO NOT UNDERESTIMATE THE DECADE OF MY VOYAGE!
-- 🌐 test
+- 💻 We're currently working on a stock rom edit for the codename "enuma" device.
 - ⚡ Fun fact: We have our own website.
 
 You can check our our website below for more information.
