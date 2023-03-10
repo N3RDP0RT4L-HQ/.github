@@ -1,2 +1,0 @@
-# N3RDP0RT4L-HQ
-N3RDP0RT4L-HQ Bio dropping soon
