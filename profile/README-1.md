@@ -1,6 +1,6 @@
 ### You found me, congratulations !
 
-Greetings young mortal, I AM SATAN!
+Welcome to the N3RDP0RT4L headquarters operating on the planet Kepler-186F!
 
 I'm a small developer demon, aiming to discover and traverse through countless of the oceans, jungles, and voyage throughout the magestical depths of space bound to gain a fleet through the indefinite stars.
 
@@ -12,4 +12,5 @@ I love playing around with the terminal, sometimes scripting away, devouring Lin
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 
-https://mattthetekie.github.io/MattTheTekie-old/www.angelfire.com/empire/serpentis666/HOME.html
+You can check our our website below for more information.
+https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/
