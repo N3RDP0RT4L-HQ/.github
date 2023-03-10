@@ -7,7 +7,7 @@ We have achieved many application ports, and modifications to make the SM-T380, 
 We also hope you can all stick around for the exciting future of the inclusive N3RDP0RT4L scene.
 
 - 📱 We finished iShitOS; A Super-Fast and debloated ROM for the SM-T380.
-- 🌱 I’m currently preparing something.
+- ⌨️ The first SM-T380 working LineageOS build has been released.
 - 📫 I'm a **HUGE** Linux user! DO NOT UNDERESTIMATE THE DECADE OF MY VOYAGE!
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
