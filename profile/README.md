@@ -6,11 +6,11 @@ We have achieved many application ports, and modifications to make the SM-T380, 
 
 We also hope you can all stick around for the exciting future of the inclusive N3RDP0RT4L scene.
 
-- 📱 We finished iShitOS; A Super-Fast and debloated ROM for the SM-T380.
+- 📱 We finished iShitOS; A Super-Fast and debloated stock ROM edit for the SM-T380.
 - ⌨️ The first SM-T380 working LineageOS build has been released.
-- 📫 Our founder likes MacOS.
+- ⚡ We have our own website.
 - 💻 We're currently working on a stock rom edit for the codename "enuma" device.
-- ⚡ Fun fact: We have our own website.
+- 🍎 Fun fact: Our founder likes MacOS.
 
 You can check our our website below for more information.
 https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/
