@@ -12,5 +12,5 @@ jobs:
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
-        pip install -r requirements.txt --user --force-reinstall
+        pip install -r requirements.txt --user
         python3 GBH.py
