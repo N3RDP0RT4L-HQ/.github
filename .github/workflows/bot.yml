@@ -8,7 +8,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Please wait...
       run: |
-        sudo apt install libffi-dev python3-pip python3-setuptools python3-dev -y
+        sudo apt install libffi-dev python3-pip python3-setuptools python3-dev libssl-dev build-essential -y
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
