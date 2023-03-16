@@ -9,7 +9,7 @@ jobs:
     - name: Please wait...
       run: |
         sudo apt install libffi-dev -y
-        sudo apt install python3-pip
+        sudo apt install python3-pip -y
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
