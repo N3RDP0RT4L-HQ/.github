@@ -12,10 +12,5 @@ jobs:
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
-        #pip3 install python-snappy --user
-        echo next
-        #pip3 install multidict
-        echo next-2
-        #pip3 install lavalink aiohttp asyncpg requests discord discord.py dataIO clint config timestring loadconfig yarl lxml --user
         sudo python3.8 -m pip install -r requirements.txt
         python3 GBH.py
