@@ -8,14 +8,14 @@ jobs:
     - uses: actions/checkout@v2
     - name: Please wait...
       run: |
-        sudo apt install libxslt1-dev python3-lxml libffi-dev python3-pip python3-setuptools python3-dev libssl-dev build-essential libyaml-dev lib32ncurses5-dev libsnappy-dev -y
+        sudo apt install python3.8-dev libxslt1-dev python3-lxml libffi-dev python3-pip python3-setuptools python3-dev libssl-dev build-essential libyaml-dev lib32ncurses5-dev libsnappy-dev -y
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
-        pip3 install python-snappy --user
+        #pip3 install python-snappy --user
         echo next
-        pip3 install multidict
+        #pip3 install multidict
         echo next-2
-        pip3 install lavalink aiohttp asyncpg requests discord discord.py dataIO clint config timestring loadconfig yarl lxml --user
-        #pip3 install -r requirements2.txt --user
+        #pip3 install lavalink aiohttp asyncpg requests discord discord.py dataIO clint config timestring loadconfig yarl lxml --user
+        sudo python3.8 -m pip install -r requirements.txt
         python3 GBH.py
