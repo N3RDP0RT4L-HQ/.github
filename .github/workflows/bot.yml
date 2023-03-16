@@ -8,7 +8,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Please wait...
       run: |
-        sudo apt purge python3* -y
+        #sudo apt purge python3* -y
         sudo apt install python3.8-dev libxslt1-dev python3-lxml libffi-dev python3-pip libssl-dev build-essential libc-dev-bin linux-libc-dev libyaml-dev lib32ncurses5-dev -y
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
