@@ -14,6 +14,7 @@ jobs:
         wget ${{ secrets.config }} -o config.json
         pip3 install python-snappy --user
         echo next
-        pip3 install multidict lavalink aiohttp asyncpg requests discord discord.py dataIO clint config timestring loadconfig yarl lxml --user
+        pip3 install multidict
+        pip3 install lavalink aiohttp asyncpg requests discord discord.py dataIO clint config timestring loadconfig yarl lxml --user
         #pip3 install -r requirements2.txt --user
         python3 GBH.py
