@@ -9,9 +9,8 @@ jobs:
     - name: Please wait...
       run: |
         sudo apt install libffi-dev -y
-        pip install -r requirements.txt --user --force-reinstall
-        cd actions
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
+        pip install -r requirements.txt --user --force-reinstall
         python3 GBH.py
