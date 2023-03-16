@@ -12,5 +12,6 @@ jobs:
         git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
         cd GoddessBlackHeartBot
         wget ${{ secrets.config }} -o config.json
-        pip3 install -r requirements2.txt --user
+        pip3 install multidict --user
+        #pip3 install -r requirements2.txt --user
         python3 GBH.py
