@@ -1,0 +1,19 @@
+name: Bot workflow
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Please wait...
+      run: |
+        #sudo apt purge python3* -y
+        sudo apt install python3.8-dev libxslt1-dev python3-lxml libffi-dev python3-pip libssl-dev build-essential libc-dev-bin linux-libc-dev libyaml-dev lib32ncurses5-dev -y
+        # sudo cp -v /usr/bin/python3.8 /usr/bin/python3
+        # Do not change anything we are simply moving python3.8 to replace the newer python3 to avoid the thing F-ing up!
+        git clone https://github.com/N3RDP0RT4L-HQ/GoddessBlackHeartBot
+        cd GoddessBlackHeartBot
+        wget ${{ secrets.config }} -o config.json
+        sudo python3.8 -m pip install --upgrade --force-reinstall -r requirements.txt
+        python3.8 GBH.py
