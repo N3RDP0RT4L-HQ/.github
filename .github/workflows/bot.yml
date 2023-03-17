@@ -3,9 +3,10 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: buildjet-4vcpu-ubuntu-1804-arm
+    runs-on: ubuntu-1804
     steps:
     - uses: actions/checkout@v2
+    - uses: pguyot/arm-runner-action@v2
     - name: Please wait...
       run: |
         #sudo apt purge python3* -y
