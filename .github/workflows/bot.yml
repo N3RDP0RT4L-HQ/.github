@@ -3,12 +3,14 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - uses: pguyot/arm-runner-action@v2
-    - name: Please wait...
-      run: |
+      id: build_image
+      with:
+        base_image: raspios_lite:2022-04-04
+        commands: |
         #sudo apt purge python3* -y
         sudo apt install python3.8-dev libxslt1-dev python3-lxml libffi-dev python3-pip libssl-dev build-essential libc-dev-bin linux-libc-dev libyaml-dev lib32ncurses5-dev -y
         # sudo cp -v /usr/bin/python3.8 /usr/bin/python3
