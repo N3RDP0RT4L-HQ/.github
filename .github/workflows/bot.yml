@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: buildjet-4vcpu-ubuntu-1804-arm
     steps:
     - uses: actions/checkout@v2
     - name: Please wait...
