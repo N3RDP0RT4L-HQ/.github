@@ -12,6 +12,6 @@ We also hope you can all stick around for the exciting future of the inclusive N
 - 🌐 We have our own website.
 - 🍎 Fun fact: Our founder likes MacOS.
 
-You can check our our websites below for more information.
+You can check our our websites below for more information.<br>
 https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/<br>
 https://gitlab.com/N3RDP0RT4L-HQ/
